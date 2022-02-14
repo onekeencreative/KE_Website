@@ -1,0 +1,9 @@
+
+<style> 
+.lp-pom-text ul, li {
+color: #7ed0e4;
+}
+</style>
+
+
+                            <i class="fa-solid fa-check"></i>
